@@ -5,7 +5,7 @@ import HomePage from './pages/HomePage.jsx';
 import MainPage from './pages/MainPage/MainPage.jsx';
 import UserTweetPage from './pages/UserTweetPage/UserTweetPage.jsx';
 import UserFollowerPage from './pages/UserFollowerPage/UserFollowerPage';
-import UserFollowingPage from 'pages/UserFollowingPage/UserFollowingPage';
+import UserFollowingPage from './pages/UserFollowingPage/UserFollowingPage';
 import LoginPage from './pages/LoginPage/LoginPage.jsx';
 import SignUpPage from './pages/SignUpPage/SignUpPage.jsx';
 import AdminLoginPage from './pages/AdminLoginPage/AdminLoginPage.jsx';
