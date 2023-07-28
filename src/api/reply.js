@@ -1,4 +1,4 @@
-import { apiHelper } from 'utility/helper';
+import { apiHelper } from '../utility/helper';
 
 // get tweet replies
 export const getTweetReplies = async (TweetId) => {
