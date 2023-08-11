@@ -83,7 +83,7 @@ npm start
 如無自動開啟可由瀏覽器輸入以下網址開啟專案
 
 ```
-http://localhost:3000/sample_twitter
+http://localhost:3000/simple_twitter
 ```
 
 ### 退出專案
